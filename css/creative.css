@@ -5,6 +5,14 @@
  */
 
 html,
+div.footerdiv{
+	
+	alignment-adjust:central;
+	font:"Arial Black", Gadget, sans-serif;
+	font-size:30px;
+	font-weight:600;
+	
+}
 body {
     width: 100%;
     height: 100%;
