@@ -140,7 +140,10 @@ aside {
     }
 
     .navbar-default .navbar-header .navbar-brand {
-        color: rgba(255,255,255,.7);
+        color:#fff;
+		border-bottom-color:#FFF;
+		border-color: #FFF;
+		
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
@@ -399,7 +402,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #f05f40;
     color: #fff;
-    background-color: #DEDFE4;
+    background-color: #DC2525;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -462,8 +465,9 @@ fieldset[disabled] .btn-primary.active {
 }
 
 ::-moz-selection {
+	
     text-shadow: none;
-    color: #fff;
+    color: #090;
     background: #222;
 }
 

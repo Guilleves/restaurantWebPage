@@ -1,0 +1,4 @@
+modifico linea 145 creative.css 
+boton de superior izquierdo (BLANCO) INICIO -
+
+modifico boton bienvenidos.
